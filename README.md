@@ -1,2 +1,2 @@
 # Leetcode-SQL-Practice
-3 problems solved / day, file name ➡ date
+approximately 1-3 problems solved / day, file name ➡ date
